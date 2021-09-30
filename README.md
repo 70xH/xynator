@@ -36,7 +36,8 @@ I enjoy talking about things I like, so this is where I ramble on.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Built using Hugo, a static site generator.
+
 * [Hugo](https://gohugo.io/)
 * [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
