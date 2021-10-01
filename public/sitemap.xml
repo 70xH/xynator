@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://70xhandler.com/posts/init/</loc>
-    <lastmod>2021-09-30T17:08:00+00:00</lastmod>
+    <loc>https://70xhandler.com/tags/c&#43;&#43;/</loc>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://70xhandler.com/posts/witcherenhanced/day000/</loc>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://70xhandler.com/tags/game-hacking/</loc>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://70xhandler.com/tags/hooking/</loc>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
   </url><url>
     <loc>https://70xhandler.com/posts/</loc>
-    <lastmod>2021-09-30T17:08:00+00:00</lastmod>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://70xhandler.com/tags/</loc>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://70xhandler.com/tags/witcher-1/</loc>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
   </url><url>
     <loc>https://70xhandler.com/</loc>
+    <lastmod>2021-10-01T18:43:00+00:00</lastmod>
+  </url><url>
+    <loc>https://70xhandler.com/posts/init/</loc>
     <lastmod>2021-09-30T17:08:00+00:00</lastmod>
   </url><url>
     <loc>https://70xhandler.com/about/</loc>
@@ -18,8 +36,6 @@
     <loc>https://70xhandler.com/categories/</loc>
   </url><url>
     <loc>https://70xhandler.com/search/</loc>
-  </url><url>
-    <loc>https://70xhandler.com/tags/</loc>
   </url><url>
     <loc>https://70xhandler.com/til/</loc>
   </url>
